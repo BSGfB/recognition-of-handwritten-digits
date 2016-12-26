@@ -1,0 +1,17 @@
+image/filter/MedianFilter.class
+image/text/TextItem.class
+start.class
+image/recognition/NTool.class
+nn/parser/NNParser.class
+nn/executor/MLPExecutor.class
+image/number/ImageNumber.class
+image/recognition/NumberRecognition.class
+nn/settings/MLPExecutSettings.class
+nn/layer/MLPLayer.class
+image/filter/MonochromeFilter.class
+nn/activation/SigmoidActivationFunction.class
+nn/activation/ActivationFunction.class
+nn/layer/Layer.class
+nn/executor/Executor.class
+image/filter/Filter.class
+image/recognition/Tool.class

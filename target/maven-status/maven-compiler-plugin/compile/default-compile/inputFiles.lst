@@ -1,0 +1,17 @@
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/image/filter/Filter.java
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/image/recognition/NumberRecognition.java
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/nn/layer/Layer.java
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/nn/activation/SigmoidActivationFunction.java
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/nn/activation/ActivationFunction.java
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/start.java
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/image/text/TextItem.java
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/image/recognition/NTool.java
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/image/recognition/Tool.java
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/nn/parser/NNParser.java
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/nn/settings/MLPExecutSettings.java
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/image/filter/MedianFilter.java
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/nn/executor/MLPExecutor.java
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/image/number/ImageNumber.java
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/image/filter/MonochromeFilter.java
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/nn/executor/Executor.java
+/media/sergey/Space/Workspace/IdeaProjects/NumberRecognition/src/main/java/nn/layer/MLPLayer.java
